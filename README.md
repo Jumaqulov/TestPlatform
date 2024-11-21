@@ -8,5 +8,7 @@ Bu platforma foydalanuvchilar uchun savol-javoblar orqali test topshirishga mo'l
 
 1. **Repozitoriyani yuklab oling**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Jumaqulov/TestPlatform.git
    cd Test-Platform
+   npm install
+   npm start
